@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rodrigo Z Oliveira
 
-- 🔭 Hoje eu trabalho como atendente na Bluefit
+- 🔭 Hoje eu trabalho como Auxiliar de TI na PLSS Soluções.
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas na UTFPR Ponta Grossa, entre outras linguagens.
 
 <div>
