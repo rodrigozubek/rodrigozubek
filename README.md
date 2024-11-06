@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rodrigo Z Oliveira
 
-- 🔭 Hoje eu trabalho como Auxiliar de TI na PLSS Soluções.
+- 🔭 Hoje eu trabalho como Assistente de TI na Distribuidora de Bebidas Virginia.
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas na UTFPR Ponta Grossa, entre outras linguagens.
 
 <div>
