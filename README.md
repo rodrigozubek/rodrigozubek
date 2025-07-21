@@ -8,10 +8,3 @@
       <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rodrigozubek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigozubek&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigozubek/rodrigozubek/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigozubek/rodrigozubek/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rodrigozubek/rodrigozubek/output/pacman-contribution-graph.svg">
-</picture>
-  
